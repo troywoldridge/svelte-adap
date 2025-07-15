@@ -1,2 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  
+  import HeroCarousel from '$lib/components/HeroCarousel.svelte';
+</script>
+
+<section class="bg-gray-100 py-6">
+  <HeroCarousel />
+  
+</section>
+
+
+
