@@ -1,68 +1,72 @@
-// scripts/seed/products.ts
+// scripts/products.ts
 
-import { db } from '../src/lib/db'
-import { products, subcategories } from '../src/lib/db/schema'
-import { parse } from 'csv-parse/sync'
-import fs from 'fs'
-import path from 'path'
-import { eq } from 'drizzle-orm'
+import { db } from '../src/lib/db';
+import { products, subcategories } from '../src/lib/db/schema';
+import { parse } from 'csv-parse/sync';
+import fs from 'fs';
+import path from 'path';
+import { eq } from 'drizzle-orm';
+import { randomUUID } from 'crypto';
 
-const csvPath = path.resolve('table_data/products')
+const csvPath = path.resolve('table_data/products');
 
 async function main() {
-	console.log('⏳ Seeding products from', csvPath)
+	console.log('⏳ Seeding products from', csvPath);
 
-	const fileContent = fs.readFileSync(csvPath, 'utf8')
+	const fileContent = fs.readFileSync(csvPath, 'utf8');
+
 	const records = parse(fileContent, {
-  columns: false,
-  skip_empty_lines: true,
-  relax_quotes: true,
-  escape: '"',
-  relax_column_count: true,
-});
+		columns: false,
+		skip_empty_lines: true,
+		relax_quotes: true,
+		escape: '"',
+		relax_column_count: true
+	});
 
 	for (const row of records) {
 		const [
-			id,
+			_id, // ignored (old serial ID)
 			name,
 			shortcode,
 			createdAt,
 			updatedAt,
 			slug,
-			uuid,
+			productUuid,
 			optionsJson,
 			pricingJson
-		] = row
+		] = row;
 
-		// Try to infer subcategory from slug prefix
+		// Use first two parts of slug to match subcategory slug
+		const subSlug = slug.split('-').slice(0, 2).join('-');
+
 		const sub = await db.query.subcategories.findFirst({
-			where: eq(subcategories.slug, slug.split('-').slice(0, 2).join('-'))
-		})
+			where: eq(subcategories.slug, subSlug)
+		});
 
 		if (!sub) {
-			console.warn(`⚠️ Skipping "${name}" — no subcategory found for slug "${slug}"`)
-			continue
+			console.warn(`⚠️ Skipping "${name}" — no subcategory found for slug "${subSlug}"`);
+			continue;
 		}
 
 		await db.insert(products).values({
-			id: Number(id),
+			id: productUuid || randomUUID(), // fallback if uuid is missing
 			name,
+			handle: shortcode,
 			slug,
-			shortcode,
-			uuid,
-			subcategoryId: sub.id,
+			uuid: productUuid || randomUUID(), // optional if id === uuid
 			createdAt: new Date(createdAt),
 			updatedAt: new Date(updatedAt),
-		})
+			subcategoryId: sub.id
+		});
 
-		console.log(`✅ Inserted: ${name}`)
+		console.log(`✅ Inserted: ${name}`);
 	}
 
-	console.log('🌱 Done seeding products.')
-	process.exit(0)
+	console.log('🌱 Done seeding products.');
+	process.exit(0);
 }
 
 main().catch((err) => {
-	console.error('❌ Seed failed:', err)
-	process.exit(1)
-})
+	console.error('❌ Seed failed:', err);
+	process.exit(1);
+});

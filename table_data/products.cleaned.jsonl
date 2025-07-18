@@ -1,0 +1,190 @@
+{"id": "2", "name": "Business Cards 14pt + AQ ", "slug": "business-cards-14pt-aq", "uuid": "8a4b7791-2dbe-4132-b55c-609654c559cf", "options": null, "pricing": null}
+{"id": "17082", "name": "Lay Flat Pouch", "slug": "lay-flat-pouch", "uuid": "4ca8d18b-1528-4a64-ac40-9015c5359696", "options": [], "pricing": []}
+{"id": "7", "name": "Business Cards 14pt + UV (High Gloss)", "slug": "business-cards-14pt-uv-high-gloss", "uuid": "828c1968-d8ef-4cf8-9396-c545752df8d4", "options": null, "pricing": null}
+{"id": "8", "name": "Business cards 14pt + Matte Finish", "slug": "business-cards-14pt-matte-finish", "uuid": "82fc5717-32d9-4c4d-b06d-81441fd45b4b", "options": null, "pricing": null}
+{"id": "10", "name": "Business cards 18pt Gloss Lamination", "slug": "business-cards-18pt-gloss-lamination", "uuid": "ed7146e2-31cc-49e6-b491-ee0b2708817e", "options": null, "pricing": null}
+{"id": "11", "name": "Business cards 14pt Writable + AQ (C1S)", "slug": "business-cards-14pt-writable-aq-c1s", "uuid": "0a4f9679-1928-47d4-ad28-236b1c282fff", "options": null, "pricing": null}
+{"id": "12", "name": "Business cards 14pt Writable + UV (C1S)", "slug": "business-cards-14pt-writable-uv-c1s", "uuid": "089bac2d-5439-4428-8140-c56e63af04d9", "options": null, "pricing": null}
+{"id": "13", "name": "Business cards 13pt Enviro Uncoated", "slug": "business-cards-13pt-enviro-uncoated", "uuid": "fe382c1c-1c58-47d0-a472-b047eb26d603", "options": null, "pricing": null}
+{"id": "15", "name": "Business cards 16pt + AQ", "slug": "business-cards-16pt-aq", "uuid": "b3f70e2d-4e71-4cfa-94b9-1aa7796767cb", "options": null, "pricing": null}
+{"id": "17", "name": "Business cards 16pt + Matte Finish", "slug": "business-cards-16pt-matte-finish", "uuid": "8f0f1ef1-64e3-4c0c-a51f-ff40c4c2fac2", "options": null, "pricing": null}
+{"id": "18", "name": "Postcards 14PT + AQ", "slug": "postcards-14pt-aq", "uuid": "a2678373-93fd-4cfb-81f0-1ef97f901c00", "options": null, "pricing": null}
+{"id": "20", "name": "Postcards 14PT + UV", "slug": "postcards-14pt-uv", "uuid": "c2eee434-626f-49c5-a40c-784249709ab5", "options": null, "pricing": null}
+{"id": "23", "name": "Postcards 14PT + Matte Finish", "slug": "postcards-14pt-matte-finish", "uuid": "abead3ac-97e9-4386-8416-18cc4f0ff816", "options": null, "pricing": null}
+{"id": "24", "name": "Postcards 18PT Matte / Silk Lamination", "slug": "postcards-18pt-matte-silk-lamination", "uuid": "9de44936-0128-4415-a836-82f724d1bbed", "options": null, "pricing": null}
+{"id": "25", "name": "Postcards 18PT Gloss Lamination", "slug": "postcards-18pt-gloss-lamination", "uuid": "0d99e541-7b9f-49c6-be7d-aab34379c866", "options": null, "pricing": null}
+{"id": "26", "name": "Postcards 10PT + AQ", "slug": "postcards-10pt-aq", "uuid": "ba4b0f27-e049-4c54-82cf-c860bac1d917", "options": null, "pricing": null}
+{"id": "27", "name": "Postcards 14pt Writable + AQ (C1S)", "slug": "postcards-14pt-writable-aq-c1s", "uuid": "3e412844-b5d1-4d29-bae1-a9c8c9d94e29", "options": null, "pricing": null}
+{"id": "28", "name": "Postcards 14pt Writable + UV (C1S)", "slug": "postcards-14pt-writable-uv-c1s", "uuid": "09b74588-d3ba-4ca8-a63a-e7c6593e2933", "options": null, "pricing": null}
+{"id": "155", "name": "Brochure Enveloped and Addressed-Postage Due ", "slug": "brochure-enveloped-and-addressed-postage-due", "uuid": "96fa2d79-72fc-4670-b5c2-e7bc0bd58aa2", "options": [], "pricing": []}
+{"id": "156", "name": "Brochure Enveloped and Addressed-Postage Included  ", "slug": "brochure-enveloped-and-addressed-postage-included", "uuid": "08982c8f-53cb-42ba-8e10-836e12e47b1f", "options": [], "pricing": []}
+{"id": "29", "name": "Postcards 13pt Enviro Uncoated", "slug": "postcards-13pt-enviro-uncoated", "uuid": "8519ea6c-e816-434b-93cc-c79cfeeee647", "options": null, "pricing": null}
+{"id": "30", "name": "Business cards 18pt Matte Lam + SPOT UV", "slug": "business-cards-18pt-matte-lam-spot-uv", "uuid": "ee13b4e7-9749-4ebc-a2f5-b3143f603f92", "options": null, "pricing": null}
+{"id": "31", "name": "Business cards 13pt Linen Uncoated", "slug": "business-cards-13pt-linen-uncoated", "uuid": "f12c6828-d123-41bd-96b6-dd066683d1ac", "options": null, "pricing": null}
+{"id": "32", "name": "Postcards 16pt + AQ", "slug": "postcards-16pt-aq", "uuid": "635d6d8d-16ee-45e2-af23-493c77d8a7aa", "options": null, "pricing": null}
+{"id": "33", "name": "Postcards 16pt + UV", "slug": "postcards-16pt-uv", "uuid": "591b4ee3-b072-4193-b5ed-5d98274798a2", "options": null, "pricing": null}
+{"id": "34", "name": "Postcards 16pt + Matte Finish", "slug": "postcards-16pt-matte-finish", "uuid": "95625d78-307d-4d82-a144-476debe4854f", "options": null, "pricing": null}
+{"id": "35", "name": "Postcards 13pt Linen Uncoated", "slug": "postcards-13pt-linen-uncoated", "uuid": "bf65bd28-09ac-49fd-ba14-7fd63833fbdb", "options": null, "pricing": null}
+{"id": "37", "name": "Flyers 100lb Gloss Text", "slug": "flyers-100lb-gloss-text", "uuid": "e9cbb76a-559a-42f6-bcd9-9d85d6e817bb", "options": null, "pricing": null}
+{"id": "38", "name": "Flyers 100LB + UV (High Gloss)", "slug": "flyers-100lb-uv-high-gloss", "uuid": "7d4c19ce-698d-484d-8978-e08ae3638b3a", "options": null, "pricing": null}
+{"id": "39", "name": "Flyers 100lb + Matte Finish", "slug": "flyers-100lb-matte-finish", "uuid": "10d4377b-a82a-4c78-9a0c-3c2328385b8e", "options": null, "pricing": null}
+{"id": "40", "name": "Flyers 80LB Enviro Uncoated", "slug": "flyers-80lb-enviro-uncoated", "uuid": "d5558111-08e2-447e-8078-09f83e86e364", "options": null, "pricing": null}
+{"id": "14959", "name": "Cut to Shape Removable Decals", "slug": "cut-to-shape-removable-decals", "uuid": "05660f92-10ee-472c-b59d-f004358d48bc", "options": [], "pricing": []}
+{"id": "14960", "name": "Cut to Shape Permanent Decals", "slug": "cut-to-shape-permanent-decals", "uuid": "c64e954d-314c-44ee-a350-de9cc18ed377", "options": [], "pricing": []}
+{"id": "43", "name": "Brochures 100LB Gloss Text", "slug": "brochures-100lb-gloss-text", "uuid": "1f9177e7-2579-42d5-a5c0-105a7667df69", "options": null, "pricing": null}
+{"id": "44", "name": "Brochures 100lb + UV (High Gloss)", "slug": "brochures-100lb-uv-high-gloss", "uuid": "431ecc00-9101-4c6d-a066-efc64ec74d1f", "options": null, "pricing": null}
+{"id": "45", "name": "Brochures 100lb + Matte Finish", "slug": "brochures-100lb-matte-finish", "uuid": "68cf7df9-f644-4bb3-a76e-f509cfe534a4", "options": null, "pricing": null}
+{"id": "50", "name": "Greeting Cards 14pt + Matte Finish", "slug": "greeting-cards-14pt-matte-finish", "uuid": "c0b9c0e4-3f91-43c1-8a55-bdd799dadd70", "options": null, "pricing": null}
+{"id": "54", "name": "Booklets 80lb Gloss Text (8.5 x 5.5)", "slug": "booklets-80lb-gloss-text-8-5-x-5-5", "uuid": "cb86fd41-2d48-45ad-ad41-ca781952a90e", "options": null, "pricing": null}
+{"id": "151", "name": "Postcard Enveloped and Addressed-Postage Due", "slug": "postcard-enveloped-and-addressed-postage-due", "uuid": "b4d1662b-3b5f-4162-8221-7465842d51fb", "options": null, "pricing": null}
+{"id": "17080", "name": "4mm Coroplast Canadian", "slug": "4mm-coroplast-canadian", "uuid": "f8c8cfd9-4e84-4424-ac2d-c79da05541fa", "options": [], "pricing": []}
+{"id": "17079", "name": "Roll Stock Pouch", "slug": "roll-stock-pouch", "uuid": "58eed03f-161d-4a5d-8a00-dab160620d62", "options": [], "pricing": []}
+{"id": "17081", "name": "Stand Up Pouch", "slug": "stand-up-pouch", "uuid": "b52dde4a-fc8c-467d-9a78-a9692a052956", "options": [], "pricing": []}
+{"id": "9", "name": "Business cards 18pt Matte / Silk Lamination", "slug": "business-cards-18pt-matte-silk-lamination", "uuid": "9d64cda0-27b5-4442-846c-effe0238b66b", "options": null, "pricing": null}
+{"id": "16", "name": "Business cards 16pt + UV", "slug": "business-cards-16pt-uv", "uuid": "7443f965-69ad-4972-86d7-97cc5c9b1717", "options": null, "pricing": null}
+{"id": "41", "name": "Flyers 70LB Linen Uncoated", "slug": "flyers-70lb-linen-uncoated", "uuid": "64f2f6b1-07c8-4785-ae11-8f3ee1294045", "options": null, "pricing": null}
+{"id": "97", "name": "4mm Coroplast (Yard Signs)", "slug": "4mm-coroplast-yard-signs", "uuid": "597dc092-5c79-41e4-a3ec-c5d5478da888", "options": null, "pricing": null}
+{"id": "55", "name": "Booklets 80lb Gloss Text (8.5 x 11)", "slug": "booklets-80lb-gloss-text-8-5-x-11", "uuid": "7f140d47-67cd-4940-9e88-bda5cc30eecd", "options": null, "pricing": null}
+{"id": "103", "name": "Pull Up Banners 13oz Matte Vinyl Silverbase", "slug": "pull-up-banners-13oz-matte-vinyl-silverbase", "uuid": "e9ec75f8-2633-4146-b373-b40a96e1a1c5", "options": null, "pricing": null}
+{"id": "56", "name": "Booklets 100lb Gloss Text (8.5 x 5.5)", "slug": "booklets-100lb-gloss-text-8-5-x-5-5", "uuid": "0015cb42-1867-41f4-b949-dcd8c557c4d7", "options": null, "pricing": null}
+{"id": "57", "name": "Booklets 100lb Gloss Text (8.5 x 11)", "slug": "booklets-100lb-gloss-text-8-5-x-11", "uuid": "6635f421-b83d-4702-9d9c-a43fdb88d04f", "options": null, "pricing": null}
+{"id": "58", "name": "Presentation Folders 14PT + AQ", "slug": "presentation-folders-14pt-aq", "uuid": "24b0f4ff-b043-4467-838f-ba992c95c6c5", "options": null, "pricing": null}
+{"id": "147", "name": "Unaddressed Postcard", "slug": "unaddressed-postcard", "uuid": "1d732707-8445-4d0a-b2fe-b17bfec1df0c", "options": null, "pricing": null}
+{"id": "150", "name": "Postcard Enveloped and Addressed-Postage Included", "slug": "postcard-enveloped-and-addressed-postage-included", "uuid": "c5f65b49-3dbd-49f0-a72b-135f32302d6d", "options": null, "pricing": null}
+{"id": "59", "name": "Presentation Folders 14PT + Matte Finish", "slug": "presentation-folders-14pt-matte-finish", "uuid": "b4238e02-1a56-41cb-84dd-1a3ef458635f", "options": null, "pricing": null}
+{"id": "60", "name": "Presentation Folders 14PT + UV (High Gloss)", "slug": "presentation-folders-14pt-uv-high-gloss", "uuid": "435e5d43-31a6-4a2a-bf24-0f70942f204a", "options": null, "pricing": null}
+{"id": "14672", "name": "Social Distancing Floor Stickers", "slug": "social-distancing-floor-stickers", "uuid": "c0afaf57-27f6-4cf7-83ec-98248f258abc", "options": null, "pricing": null}
+{"id": "62", "name": "Magnets 14PT", "slug": "magnets-14pt", "uuid": "7b6f17ed-71cf-474d-a4ef-2cdf2e409454", "options": null, "pricing": null}
+{"id": "14975", "name": "10mm Coroplast", "slug": "10mm-coroplast", "uuid": "dd4f9198-832c-434c-a458-8f3f81de4add", "options": null, "pricing": null}
+{"id": "63", "name": "Wall Calendars 80LB Gloss Text", "slug": "wall-calendars-80lb-gloss-text", "uuid": "04594d3c-e5df-43ce-8c8b-ba9d68acd630", "options": null, "pricing": null}
+{"id": "65", "name": "Posters 100LB Gloss Text", "slug": "posters-100lb-gloss-text", "uuid": "2faa6945-796e-4fd2-b032-e172b0bf8692", "options": null, "pricing": null}
+{"id": "66", "name": "Posters 100LB + Matte Finish", "slug": "posters-100lb-matte-finish", "uuid": "6d4582d0-4168-43f1-8b60-d461baa92c43", "options": null, "pricing": null}
+{"id": "67", "name": "Posters 100LB + UV (High Gloss)", "slug": "posters-100lb-uv-high-gloss", "uuid": "8521cfe3-ff76-4e15-859e-09b68a489be6", "options": null, "pricing": null}
+{"id": "68", "name": "Posters 80LB Enviro Uncoated", "slug": "posters-80lb-enviro-uncoated", "uuid": "bfd33c9d-5ab0-4ad0-b645-7c134cea6d19", "options": null, "pricing": null}
+{"id": "69", "name": "Door Hangers 14PT + AQ", "slug": "door-hangers-14pt-aq", "uuid": "293a4594-e5ce-4046-9597-80c394536f44", "options": null, "pricing": null}
+{"id": "70", "name": "Door Hangers 14PT + UV (High Gloss)", "slug": "door-hangers-14pt-uv-high-gloss", "uuid": "59a176a5-f4e4-4eac-bd34-8e783ceff331", "options": null, "pricing": null}
+{"id": "71", "name": "Door Hangers 14PT + Matte Finish", "slug": "door-hangers-14pt-matte-finish", "uuid": "1b6acb8d-2d98-44c8-84b5-da8db4c7f8c2", "options": null, "pricing": null}
+{"id": "72", "name": "Door Hangers 13PT Enviro Uncoated", "slug": "door-hangers-13pt-enviro-uncoated", "uuid": "d6db457f-72cc-4df4-9e46-aedc20376d45", "options": null, "pricing": null}
+{"id": "75", "name": "Plastic 14PT", "slug": "plastic-14pt", "uuid": "1378aaa9-3bc2-4627-97f6-f44e65b66be5", "options": null, "pricing": null}
+{"id": "80", "name": "Letterheads 60LB Uncoated", "slug": "letterheads-60lb-uncoated", "uuid": "dac8b8f5-9472-4bba-a894-c636e842d8c6", "options": null, "pricing": null}
+{"id": "81", "name": "Envelopes 60LB Uncoated", "slug": "envelopes-60lb-uncoated", "uuid": "09da6669-d761-4bf7-be18-bf649220e28f", "options": null, "pricing": null}
+{"id": "82", "name": "Notepads 60LB Uncoated (25 pages)", "slug": "notepads-60lb-uncoated-25-pages", "uuid": "3acf235a-f686-4b5c-b620-a4fb1f9b903a", "options": null, "pricing": null}
+{"id": "64", "name": "Wall Calendars 100LB Gloss Text", "slug": "wall-calendars-100lb-gloss-text", "uuid": "77b22b15-6c66-415d-857a-97c321acb907", "options": null, "pricing": null}
+{"id": "83", "name": "Notepads 60LB Uncoated (50 pages)", "slug": "notepads-60lb-uncoated-50-pages", "uuid": "dbbab79c-a651-4bb5-beaf-860a7464c424", "options": null, "pricing": null}
+{"id": "98", "name": "6mm Coroplast", "slug": "6mm-coroplast", "uuid": "e720337b-d7ec-4f27-b7ee-f9df01399cd5", "options": null, "pricing": null}
+{"id": "99", "name": "8mm Coroplast", "slug": "8mm-coroplast", "uuid": "55f4ca92-f89a-4d73-843e-23a1985cfc2b", "options": null, "pricing": null}
+{"id": "100", "name": "4mm Foam Board", "slug": "4mm-foam-board", "uuid": "5508f5b3-45cf-44a3-b741-cc5f518ebc1b", "options": null, "pricing": null}
+{"id": "101", "name": "Banners 13oz Glossy Vinyl", "slug": "banners-13oz-glossy-vinyl", "uuid": "6c1018c9-1f87-43aa-9891-b03e9cb76263", "options": null, "pricing": null}
+{"id": "102", "name": "Banners 13oz Matte Vinyl", "slug": "banners-13oz-matte-vinyl", "uuid": "9ceca6e2-b2ba-4a31-9e9a-fd5ff3f86c3d", "options": null, "pricing": null}
+{"id": "104", "name": "Car Magnets (30mil)", "slug": "car-magnets-30mil", "uuid": "447c1d5a-82e4-4df0-8ded-60b5053c0684", "options": null, "pricing": null}
+{"id": "105", "name": "Large Format Posters 8pt C2S", "slug": "large-format-posters-8pt-c2s", "uuid": "e4f154b3-7d3a-46da-88e0-3fd85f41d2ed", "options": null, "pricing": null}
+{"id": "106", "name": "20pt Styrene", "slug": "20pt-styrene", "uuid": "419ecd1d-37b4-437b-803f-ba6e784b0a05", "options": null, "pricing": null}
+{"id": "107", "name": "Display Board 24PT", "slug": "display-board-24pt", "uuid": "b8f17bf8-6771-4208-a9a6-09812b6515f4", "options": null, "pricing": null}
+{"id": "108", "name": "Display Board 40PT", "slug": "display-board-40pt", "uuid": "609b727a-4889-4c07-be72-652e4e6a62c2", "options": null, "pricing": null}
+{"id": "109", "name": "Canvas Roll", "slug": "canvas-roll", "uuid": "9b474647-4b71-47d2-8797-c3b8b86a7cf6", "options": null, "pricing": null}
+{"id": "110", "name": "3mm Sintra", "slug": "3mm-sintra", "uuid": "34bfaf08-790c-44c6-91e2-756d91c2f949", "options": null, "pricing": null}
+{"id": "111", "name": "X-Frame Banners 13oz Matte Vinyl", "slug": "x-frame-banners-13oz-matte-vinyl", "uuid": "b2547061-b655-4a62-9451-c2a488653ae3", "options": null, "pricing": null}
+{"id": "112", "name": "A-Frame Signs 4mm Coroplast", "slug": "a-frame-signs-4mm-coroplast", "uuid": "5b2f0309-e4b7-4771-9591-d08100c2d1d8", "options": null, "pricing": null}
+{"id": "117", "name": "Numbered Tickets 14pt", "slug": "numbered-tickets-14pt", "uuid": "8c14000f-c8b9-4353-85d3-70bc5c12c929", "options": null, "pricing": null}
+{"id": "120", "name": "Supply Boxes", "slug": "supply-boxes", "uuid": "3600bd99-67be-42e2-a3cf-471e697c648a", "options": null, "pricing": null}
+{"id": "121", "name": "H Stand ( for signs)", "slug": "h-stand-for-signs", "uuid": "b9f86d3b-e16c-4910-a75b-311a08238283", "options": null, "pricing": null}
+{"id": "122", "name": "A Frame Stands", "slug": "a-frame-stands", "uuid": "7efdeb09-9ad0-41c3-adbf-e6ad02ddfc6d", "options": null, "pricing": null}
+{"id": "123", "name": "Profit Pak (Samples)", "slug": "profit-pak-samples", "uuid": "3e5ba95f-1c97-4baf-9287-5fdbb172598b", "options": null, "pricing": null}
+{"id": "124", "name": "Folded Business Card 14pt + UV (High Gloss)", "slug": "folded-business-card-14pt-uv-high-gloss", "uuid": "7c105cf8-f5f6-41bf-ab1f-ac4867c910f3", "options": null, "pricing": null}
+{"id": "125", "name": "Folded Business Cards 14PT + Matte Finish", "slug": "folded-business-cards-14pt-matte-finish", "uuid": "f3f66e79-b4cd-4c17-8182-8c053fc01f2d", "options": null, "pricing": null}
+{"id": "126", "name": "Folded Business Cards 13PT Enviro Uncoated", "slug": "folded-business-cards-13pt-enviro-uncoated", "uuid": "575793e3-91f9-4d30-93c5-75cfbd142a72", "options": null, "pricing": null}
+{"id": "127", "name": "Variable Printing 14PT", "slug": "variable-printing-14pt", "uuid": "aa4f9d29-bdd5-4b60-af85-169b04564dc0", "options": null, "pricing": null}
+{"id": "129", "name": "Tear Cards 14PT + UV", "slug": "tear-cards-14pt-uv", "uuid": "d06ca566-e958-4446-b7a8-f6ad04a3ce77", "options": null, "pricing": null}
+{"id": "130", "name": "Tear Cards 14PT + Matte Finish", "slug": "tear-cards-14pt-matte-finish", "uuid": "cafc6045-b844-4605-b792-bbf8f5bb8a8a", "options": null, "pricing": null}
+{"id": "132", "name": "Tear Cards 13PT + Enviro Uncoated", "slug": "tear-cards-13pt-enviro-uncoated", "uuid": "75e8b6e7-c02e-45ec-bf11-6d77412961e8", "options": null, "pricing": null}
+{"id": "137", "name": "Digital Sheets 14pt + Matte Finish", "slug": "digital-sheets-14pt-matte-finish", "uuid": "62da4eca-61e9-4b36-99a5-aed7e3e5d367", "options": null, "pricing": null}
+{"id": "15010", "name": "Pearl Paperl Invitations", "slug": "pearl-paperl-invitations", "uuid": "74b951e6-bb0f-477a-a6a6-49e96a439a3c", "options": null, "pricing": null}
+{"id": "138", "name": "Digital Sheets 13pt Enviro Uncoated", "slug": "digital-sheets-13pt-enviro-uncoated", "uuid": "1fde0d79-4626-4749-a8bf-1f089fd87a42", "options": null, "pricing": null}
+{"id": "139", "name": "Digital Sheets 100lb Gloss Text", "slug": "digital-sheets-100lb-gloss-text", "uuid": "6e5b2052-2386-4559-aae3-6023baf420d1", "options": null, "pricing": null}
+{"id": "141", "name": "Digital Sheets 100lb + Matte Finish", "slug": "digital-sheets-100lb-matte-finish", "uuid": "e482ae90-3062-461f-9f23-81f21d54e43e", "options": null, "pricing": null}
+{"id": "142", "name": "Digital Sheets 80lb Enviro Uncoated ", "slug": "digital-sheets-80lb-enviro-uncoated", "uuid": "a62a5ec4-fcf2-4a31-b1cf-8e8e668fc400", "options": null, "pricing": null}
+{"id": "148", "name": "Postcard Addressed-Postage Included", "slug": "postcard-addressed-postage-included", "uuid": "bb7040ed-4c4a-4838-ad9f-530b192a53c6", "options": null, "pricing": null}
+{"id": "149", "name": "Postcard Addressed-Postage Due", "slug": "postcard-addressed-postage-due", "uuid": "5effc907-572b-4063-94c6-80b1d5c24701", "options": null, "pricing": null}
+{"id": "163", "name": "Postcard 18pt Matte Lam + SPOT UV", "slug": "postcard-18pt-matte-lam-spot-uv", "uuid": "f73353b2-96ac-42e6-9b29-a9ae3a32f274", "options": null, "pricing": null}
+{"id": "202", "name": "Premium Pull Up Banners 13oz Matte Vinyl", "slug": "premium-pull-up-banners-13oz-matte-vinyl", "uuid": "e3924476-234d-4f26-a6aa-477341ade0fd", "options": null, "pricing": null}
+{"id": "206", "name": "Window Perforated Vinyl", "slug": "window-perforated-vinyl", "uuid": "f47988fd-c864-4c0b-b1c7-3dc70817b1b1", "options": null, "pricing": null}
+{"id": "4137", "name": "Presentation Folders Matte Laminated", "slug": "presentation-folders-matte-laminated", "uuid": "fe6cefdd-b460-4dca-a1b7-efa744ec58a1", "options": null, "pricing": null}
+{"id": "4139", "name": "Glossy Adhesive Vinyl", "slug": "glossy-adhesive-vinyl", "uuid": "2da99fb7-fdc7-4601-874e-05815c77e034", "options": null, "pricing": null}
+{"id": "4165", "name": "Security Envelopes 60LB Uncoated", "slug": "security-envelopes-60lb-uncoated", "uuid": "ecfd6698-7c86-48d2-abaa-a34393ac0e58", "options": null, "pricing": null}
+{"id": "4902", "name": "Tent Cards 14PT + Matte Finish", "slug": "tent-cards-14pt-matte-finish", "uuid": "3c6adbef-ca80-4f0a-a3dc-8acb930c59e0", "options": null, "pricing": null}
+{"id": "4904", "name": "Postcards 10PT + Matte Finish", "slug": "postcards-10pt-matte-finish", "uuid": "cd9a52e0-074e-4c35-9d88-59e89801ca77", "options": null, "pricing": null}
+{"id": "5528", "name": "Bookmark 14PT + UV", "slug": "bookmark-14pt-uv", "uuid": "7aeec080-99d4-432d-920e-fa4b95bcdb68", "options": null, "pricing": null}
+{"id": "5529", "name": "Bookmark 14PT + Matte Finish", "slug": "bookmark-14pt-matte-finish", "uuid": "b74c8806-7264-4b6b-8af3-fd42c17014d5", "options": null, "pricing": null}
+{"id": "5530", "name": "Bookmark 18PT Matte / Silk Lamination", "slug": "bookmark-18pt-matte-silk-lamination", "uuid": "fa4e16a2-e704-42a4-ad42-102bf39e18fd", "options": null, "pricing": null}
+{"id": "5531", "name": "Bookmark 18PT Gloss Lamination", "slug": "bookmark-18pt-gloss-lamination", "uuid": "ff8f7e19-f851-4d0a-bcd7-3f75b5daf3d6", "options": null, "pricing": null}
+{"id": "5534", "name": "Bookmark 14pt Writable + UV (C1S)", "slug": "bookmark-14pt-writable-uv-c1s", "uuid": "badf97f1-9e46-4594-95f6-129c2694e75d", "options": null, "pricing": null}
+{"id": "5535", "name": "Bookmark 13pt Enviro Uncoated", "slug": "bookmark-13pt-enviro-uncoated", "uuid": "48bce383-fc01-43b9-9ba6-ccc9f9602d5c", "options": null, "pricing": null}
+{"id": "5537", "name": "Bookmark 16pt + UV", "slug": "bookmark-16pt-uv", "uuid": "3237b795-7d33-463f-a09a-1d9835d93061", "options": null, "pricing": null}
+{"id": "5538", "name": "Bookmark 16pt + Matte Finish", "slug": "bookmark-16pt-matte-finish", "uuid": "78a1b52f-cc89-490a-b0c9-9b9dd2674286", "options": null, "pricing": null}
+{"id": "5539", "name": "Bookmark 13pt Linen Uncoated", "slug": "bookmark-13pt-linen-uncoated", "uuid": "77b679aa-283b-475e-a87b-26c91d271f09", "options": null, "pricing": null}
+{"id": "5541", "name": "Bookmark 10PT + Matte Finish", "slug": "bookmark-10pt-matte-finish", "uuid": "4fc916a5-c6ab-4526-b27c-dc00d8918ebf", "options": null, "pricing": null}
+{"id": "5546", "name": "Bookmark 18pt Matte Lam + SPOT UV", "slug": "bookmark-18pt-matte-lam-spot-uv", "uuid": "9d21b195-4043-46b7-95de-0e4237936242", "options": null, "pricing": null}
+{"id": "5547", "name": "NCR Forms 20lb Uncoated", "slug": "ncr-forms-20lb-uncoated", "uuid": "9fa5c507-a3b5-43b0-bff9-a8438f364abb", "options": null, "pricing": null}
+{"id": "5557", "name": "Business Cards 18PT Writable (C1S)", "slug": "business-cards-18pt-writable-c1s", "uuid": "ba969fee-90e3-479b-a278-2fa8901f2a40", "options": null, "pricing": null}
+{"id": "5585", "name": "Envelopes 60lb (Self-Adhesive)", "slug": "envelopes-60lb-self-adhesive", "uuid": "b120ddff-ce98-4d0d-aba6-06ead63d6522", "options": null, "pricing": null}
+{"id": "7028", "name": "BOPP Roll Labels", "slug": "bopp-roll-labels", "uuid": "c1caa1d7-69db-4497-a321-71324356d780", "options": null, "pricing": null}
+{"id": "7029", "name": "Poly Roll Labels", "slug": "poly-roll-labels", "uuid": "2ca30864-d0c2-4cc7-b58f-0a41e2bf067a", "options": null, "pricing": null}
+{"id": "7030", "name": "Paper Roll Labels", "slug": "paper-roll-labels", "uuid": "6a0a5e85-1846-4bb4-adba-bb015050493a", "options": null, "pricing": null}
+{"id": "7324", "name": "Metallic Foil Business Cards", "slug": "metallic-foil-business-cards", "uuid": "4c1942a4-fdaf-4d26-8190-e877d789600e", "options": null, "pricing": null}
+{"id": "7326", "name": "Durable Business Cards", "slug": "durable-business-cards", "uuid": "13c046aa-5d7f-4d09-920f-7a719f957c26", "options": null, "pricing": null}
+{"id": "7332", "name": "Kraft Business Cards", "slug": "kraft-business-cards", "uuid": "3a490144-3f56-45be-ac91-5999d4ed1784", "options": null, "pricing": null}
+{"id": "7334", "name": "Pearl Business Cards", "slug": "pearl-business-cards", "uuid": "ebbd0248-815e-49be-a9bc-89a8651e0121", "options": null, "pricing": null}
+{"id": "7543", "name": "Pearl Paper Postcards", "slug": "pearl-paper-postcards", "uuid": "84d879f3-a61d-4402-90b2-e15acb953827", "options": null, "pricing": null}
+{"id": "7544", "name": "Kraft Paper Postcards", "slug": "kraft-paper-postcards", "uuid": "178991a9-7ca4-4b1e-b7fc-8283769c868a", "options": null, "pricing": null}
+{"id": "7545", "name": "Metallic Foil Postcards", "slug": "metallic-foil-postcards", "uuid": "b9d7d922-2f82-435b-937a-39287c1341a6", "options": null, "pricing": null}
+{"id": "7546", "name": "Durable Postcards", "slug": "durable-postcards", "uuid": "94f400f5-e3b6-41ba-a88e-5975b62f8cf2", "options": null, "pricing": null}
+{"id": "7547", "name": "Table Top Pull Up Banner 13 oz Matte Vinyl", "slug": "table-top-pull-up-banner-13-oz-matte-vinyl", "uuid": "7b004270-3f89-4ff9-a3c6-443cafeccbe8", "options": null, "pricing": null}
+{"id": "7548", "name": "Premium Wide Pull Up Banners 13 oz Matte Vinyl", "slug": "premium-wide-pull-up-banners-13-oz-matte-vinyl", "uuid": "5bf278d7-7360-48a2-9da0-10ba1bd272d1", "options": null, "pricing": null}
+{"id": "7549", "name": "Double Sided Pull Up Banners 13 oz Matte Vinyl", "slug": "double-sided-pull-up-banners-13-oz-matte-vinyl", "uuid": "95f3c20c-f73a-4968-b795-9de1da829a1e", "options": null, "pricing": null}
+{"id": "7550", "name": "Metallic Foil Greeting Cards", "slug": "metallic-foil-greeting-cards", "uuid": "ce70c1ad-f7dd-4de5-ad3c-8ff304572af2", "options": null, "pricing": null}
+{"id": "7551", "name": "Spot UV Greeting Cards", "slug": "spot-uv-greeting-cards", "uuid": "a94f6a4c-93d8-478d-91c8-bad2e7beacc4", "options": null, "pricing": null}
+{"id": "7552", "name": "Pearl Paper Greeting Cards", "slug": "pearl-paper-greeting-cards", "uuid": "770ce1c8-a530-492f-91bb-6bbcdc9b97bc", "options": null, "pricing": null}
+{"id": "7553", "name": "Kraft Paper Greeting Cards", "slug": "kraft-paper-greeting-cards", "uuid": "58d56fc2-22ee-4b13-8438-dbcb01ab8533", "options": null, "pricing": null}
+{"id": "77", "name": "Clings Transparent", "slug": "clings-transparent", "uuid": "c63b6baa-5a9d-425d-8051-b9a2d4fd4b5d", "options": null, "pricing": null}
+{"id": "7554", "name": "Mesh Banner 8oz Polyester Mesh", "slug": "mesh-banner-8oz-polyester-mesh", "uuid": "838a7063-f1ac-4d4c-8efe-5fb345d9e0c8", "options": null, "pricing": null}
+{"id": "7555", "name": "Removable Wall Decals 7 Mil", "slug": "removable-wall-decals-7-mil", "uuid": "991ba880-9a2d-41f9-a649-c8801526cdc9", "options": null, "pricing": null}
+{"id": "7557", "name": "Die Cut Business Cards ", "slug": "die-cut-business-cards", "uuid": "e60440ad-a00f-481b-b328-cfd2398099b6", "options": null, "pricing": null}
+{"id": "7563", "name": "Standard Rack Cards", "slug": "standard-rack-cards", "uuid": "48a5afe6-b3c5-4cc0-8134-d94bade2bae2", "options": null, "pricing": null}
+{"id": "7564", "name": "High Gloss Rack Cards", "slug": "high-gloss-rack-cards", "uuid": "f86a6336-8eab-4056-a58a-173d036770ff", "options": null, "pricing": null}
+{"id": "7565", "name": "Matte Laminated Rack Cards", "slug": "matte-laminated-rack-cards", "uuid": "57a572e0-5349-4826-adff-0a7f7cc6ee37", "options": null, "pricing": null}
+{"id": "7566", "name": "Uncoated Rack Cards", "slug": "uncoated-rack-cards", "uuid": "f3568ddf-9a71-4f28-b44a-60d8c4a97474", "options": null, "pricing": null}
+{"id": "51", "name": "Greeting Cards 14pt Writable + AQ (C1S)", "slug": "greeting-cards-14pt-writable-aq-c1s", "uuid": "58826239-edb2-450e-b178-3b71bbddf139", "options": null, "pricing": null}
+{"id": "7567", "name": "Soft Touch Business Cards", "slug": "soft-touch-business-cards", "uuid": "18942817-71ac-46dc-b33c-3f9d7296a26c", "options": null, "pricing": null}
+{"id": "7568", "name": "Quick Ship Business Cards", "slug": "quick-ship-business-cards", "uuid": "3f911436-66c8-466c-a4bc-a71b7a5e13db", "options": null, "pricing": null}
+{"id": "7659", "name": "Quick Ship Coroplast Signs", "slug": "quick-ship-coroplast-signs", "uuid": "6a5b909c-cd69-4dae-9a38-c19c370b6233", "options": null, "pricing": null}
+{"id": "14676", "name": "Floor Graphics", "slug": "floor-graphics", "uuid": "dc267994-6457-4ad5-a2d7-8627341a3f5a", "options": null, "pricing": null}
+{"id": "52", "name": "Greeting Cards 14pt Writable + UV (C1S)", "slug": "greeting-cards-14pt-writable-uv-c1s", "uuid": "b961911c-17b8-4ea2-a521-5153b9345ca4", "options": null, "pricing": null}
+{"id": "14678", "name": "Booklets 60lb Offset Text (8.5 x 11)", "slug": "booklets-60lb-offset-text-8-5-x-11", "uuid": "f9cb309b-6ea4-49ad-9875-b43526753cb7", "options": null, "pricing": null}
+{"id": "14972", "name": "Social Distancing Signage", "slug": "social-distancing-signage", "uuid": "58bb6695-6e5b-4210-98e2-60881cb74ff4", "options": null, "pricing": null}
+{"id": "14978", "name": "3mm Aluminum Signs", "slug": "3mm-aluminum-signs", "uuid": "8fc22da8-d86d-4bbb-bf0b-86b2579b4783", "options": null, "pricing": null}
+{"id": "14979", "name": "Booklets 80lb Silk Text (8.5 x 5.5)", "slug": "booklets-80lb-silk-text-8-5-x-5-5", "uuid": "0b65fce0-a8ee-4e9a-9285-c25028232862", "options": null, "pricing": null}
+{"id": "53", "name": "Greeting Cards 13pt Enviro Uncoated", "slug": "greeting-cards-13pt-enviro-uncoated", "uuid": "802c69dd-1017-4633-a572-bf76b013527b", "options": null, "pricing": null}
+{"id": "14980", "name": "Booklets 80lb Silk Text (8.5 x 11)", "slug": "booklets-80lb-silk-text-8-5-x-11", "uuid": "8430ad12-326b-4bf3-beb9-a2f49255e6e6", "options": null, "pricing": null}
+{"id": "14981", "name": "Cut to Shape Magnets (30mil)", "slug": "cut-to-shape-magnets-30mil", "uuid": "86026c33-da6f-4b42-8ee0-b10b1f9b025e", "options": null, "pricing": null}
+{"id": "14982", "name": "Booklets 100lb Silk Text (8.5 x 5.5)", "slug": "booklets-100lb-silk-text-8-5-x-5-5", "uuid": "8d2a49f9-55c2-4d6f-a991-cf6127be4968", "options": null, "pricing": null}
+{"id": "14983", "name": "Booklets 100lb Silk Text (8.5 x 11)", "slug": "booklets-100lb-silk-text-8-5-x-11", "uuid": "34e6bde3-0178-4d18-979b-3037fbb09524", "options": null, "pricing": null}
+{"id": "14985", "name": "Cut to Shape Magnets (20mil)", "slug": "cut-to-shape-magnets-20mil", "uuid": "b51de245-308f-4303-b644-e2bac2791ca2", "options": null, "pricing": null}
+{"id": "14986", "name": "32pt Painted Edge Business Cards", "slug": "32pt-painted-edge-business-cards", "uuid": "edf56048-be8c-4621-a48c-9ddc9e3997ab", "options": null, "pricing": null}
+{"id": "14988", "name": "Table Covers (8 ft Table)", "slug": "table-covers-8-ft-table", "uuid": "7adfa8da-c71e-4c24-a643-f7889b8063e7", "options": null, "pricing": null}
+{"id": "15005", "name": "Invitations 14pt + Matte Finish", "slug": "invitations-14pt-matte-finish", "uuid": "cee73145-cb91-4928-871b-70ada88fed5a", "options": null, "pricing": null}
+{"id": "15006", "name": "Invitations 14pt Writable + AQ (C1S)", "slug": "invitations-14pt-writable-aq-c1s", "uuid": "ffbe9710-9c1c-45ce-9a6f-9bf26e5f828e", "options": null, "pricing": null}
+{"id": "15007", "name": "Invitations 14pt + AQ", "slug": "invitations-14pt-aq", "uuid": "156d76fe-7d68-46c0-acc9-0ebe28ac275a", "options": null, "pricing": null}
+{"id": "46", "name": "Brochures 80lb Enviro Uncoated", "slug": "brochures-80lb-enviro-uncoated", "uuid": "980432e6-ba38-410a-b2ee-253144fa1e80", "options": null, "pricing": null}
+{"id": "48", "name": "Greeting Cards 14pt + AQ", "slug": "greeting-cards-14pt-aq", "uuid": "28895ca3-eb06-4c88-abd1-f7837ab7f35c", "options": null, "pricing": null}
+{"id": "49", "name": "Greeting Cards 14pt + UV (High Gloss)", "slug": "greeting-cards-14pt-uv-high-gloss", "uuid": "3b10a071-6335-4d37-bd54-0944bb672c83", "options": null, "pricing": null}
+{"id": "78", "name": "Clings Opaque", "slug": "clings-opaque", "uuid": "1fd693be-522d-41c6-b54a-4c996b26771f", "options": null, "pricing": null}
+{"id": "96", "name": "60lb slit back label / Stickers", "slug": "60lb-slit-back-label-stickers", "uuid": "d3536a42-b3e3-4645-8dd6-bcb23f027287", "options": null, "pricing": null}
+{"id": "14679", "name": "Booklets 60lb Offset Text (8.5 x 5.5)", "slug": "booklets-60lb-offset-text-8-5-x-5-5", "uuid": "fa18fb6e-d0e5-4acb-a69c-bb7571935130", "options": null, "pricing": null}
+{"id": "14987", "name": "Table Covers (6 ft Table)", "slug": "table-covers-6-ft-table", "uuid": "afcd42fe-ca42-4382-b3b5-2f65356a47b2", "options": null, "pricing": null}
+{"id": "15022", "name": "Ultra Smooth Business Cards", "slug": "ultra-smooth-business-cards", "uuid": "41efb85f-ae89-4be3-9fa0-decb364ffef9", "options": null, "pricing": null}
+{"id": "16931", "name": "Presentation Folders 14PT + Metallic Foil", "slug": "presentation-folders-14pt-metallic-foil", "uuid": "5ff7ae72-eaee-4927-87d7-8160f2ad4715", "options": null, "pricing": null}
+{"id": "15008", "name": "Invitations 14pt + UV (High Gloss)", "slug": "invitations-14pt-uv-high-gloss", "uuid": "91f84e8c-1ab7-4c47-9092-38b231388beb", "options": null, "pricing": null}
+{"id": "15009", "name": "Invitations 18pt Kraft Paper", "slug": "invitations-18pt-kraft-paper", "uuid": "92a45226-e2f5-4232-b85f-5b80297e1bed", "options": null, "pricing": null}
+{"id": "15193", "name": "Pull Up Banners 13oz Matte Vinyl Blackbase (31.5 x 78.75)", "slug": "pull-up-banners-13oz-matte-vinyl-blackbase-31-5-x-78-75", "uuid": "a89a8ce4-cef2-4ea8-a0e4-37df517475d1", "options": null, "pricing": null}
+{"id": "15011", "name": "Metallic Foil Invitations", "slug": "metallic-foil-invitations", "uuid": "cc8f0446-2712-422e-b7be-6c3e5b57d787", "options": null, "pricing": null}
+{"id": "16930", "name": "Willowpack\u2122 Roll Labels", "slug": "willowpack-roll-labels", "uuid": "f12e05e7-4596-4133-832d-4253534b807b", "options": null, "pricing": null}

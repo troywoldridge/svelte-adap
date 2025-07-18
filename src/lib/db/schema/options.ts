@@ -1,12 +1,12 @@
-import { pgTable, text, timestamp, uuid, integer } from 'drizzle-orm/pg-core';
+import { pgTable, text, timestamp, uuid, integer, boolean } from 'drizzle-orm/pg-core';
 
+// Options Table - use UUID primary key only, remove integer id
 export const options = pgTable('options', {
-  id: integer('id').primaryKey().notNull(),
+  uuid: uuid('uuid').primaryKey().defaultRandom(),
   optionId: integer('option_id').notNull(),
-  group: text('group').notNull(), // ✅ not `group_id`
+  group: text('group').notNull(),
   name: text('name').notNull(),
-  hidden: text('hidden').notNull(), // or boolean
-  createdAt: timestamp('created_at', { mode: 'date' }),
-  updatedAt: timestamp('updated_at', { mode: 'date' }),
-  uuid: uuid('uuid').primaryKey(),
+  hidden: boolean('hidden').notNull().default(false),  // better as boolean
+  createdAt: timestamp('created_at').notNull().defaultNow(),
+  updatedAt: timestamp('updated_at').notNull().defaultNow(),
 });

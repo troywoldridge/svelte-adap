@@ -1,15 +1,16 @@
 // src/lib/db/schema/optionMetadata.ts
 import { pgTable, uuid, text, boolean, integer } from 'drizzle-orm/pg-core';
 
+// Option Metadata Table
 export const optionMetadata = pgTable('option_metadata', {
   id: uuid('id').primaryKey().defaultRandom(),
-  optionId: uuid('option_id').notNull().references(() => options.id), // links to options table
-  label: text('label').notNull(),       // e.g., "Size", "Quantity"
-  inputType: text('input_type').notNull(), // "dropdown", "radio", "number"
-  min: integer('min'),                  // optional min value (for number inputs)
-  max: integer('max'),                  // optional max value
-  step: integer('step'),                // optional step for number inputs
-  unit: text('unit'),                   // optional unit e.g. "pcs", "inches"
-  showPrice: boolean('show_price').default(false),
-  required: boolean('required').default(false)
+  optionId: uuid('option_id').notNull().references(() => Option.uuid, { onDelete: 'cascade' }),
+  label: text('label').notNull(),
+  inputType: text('input_type').notNull(),
+  min: integer('min'),
+  max: integer('max'),
+  step: integer('step'),
+  unit: text('unit'),
+  showPrice: boolean('show_price').notNull().default(false),
+  required: boolean('required').notNull().default(false),
 });
